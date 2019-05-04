@@ -1,4 +1,0 @@
--leer set de datos en python
--relacionar tablas, hay cosas en txt así que puede ser un poco coñazo
--buscar librería para leer dicho txt
--profit? Nah, que visualicemos primero la información y ya luego podemos trabajar
